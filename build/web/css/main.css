@@ -1,0 +1,75 @@
+body {
+    font-family: Verdana, Geneva,Arial,sans-serif;
+    font-size: medium;
+    color: blue;
+    background-image: url(foto3.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+h1, h2 {
+    font-weight: normal;
+    border-bottom: thin dotted #888888;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: blueviolet;
+    padding: auto;
+    background-color: yellow;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: gold;
+}
+
+#main {
+    background-color: #fcba7a;
+    margin: 20px 400px 20px 50px;
+    border-radius: 25px;
+}
+
+table {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: thin solid gray;
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+
+
+td,th {
+    border: thin dotted gray;
+    padding: 5px;
+}
+
+th {
+    background-color: #cc6600;
+}
+
+td {
+    background-color: #fcba7a;
+    color: background;
+    padding: 17px;
+}
+
+
+a:visited {
+    color:#888888;
+}
+
+a:active {
+    color: greenyellow;
+} 
+
+a:hover {
+    background-color: yellow;
+}
+
+a:link {
+    color: green;
+}
+

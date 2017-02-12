@@ -1,0 +1,28 @@
+body {
+    background: url(foto8.jpg);
+}
+
+div {
+    position: absolute;
+    left: 550px;
+    top: 250px;
+    background: aquamarine;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+a:visited {
+    color:green;
+}
+a:link {
+    color:green;
+}
+
+a:hover {
+    background: yellow;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+body {
+    background: url(foto4.jpg) repeat;
+}
+span {
+    text-align: center;
+    position: relative;
+    left: 500px;
+    background: yellow;
+    color: blue;
+}
+#da {
+    float: right;
+    width: 200px;
+    background-color: yellow;
+    color: blue;
+    overflow: scroll;
+    height: 200px;
+}
+
+#messages {
+    
+}
+
+#addmess {
+    margin-right: 250px;
+}
+
+
+textarea {
+    color: blue;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    left: 350px;
+    background: url(foto7.jpg);
+}
+
+button {
+    position: relative;
+    left: 420px;
+    top: 15px;
+}
+
